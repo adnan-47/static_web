@@ -1,1 +1,1 @@
-## just some simple wesite using html,css and js
+#just some simple wesite using html,css and js
