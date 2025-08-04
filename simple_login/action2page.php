@@ -1,23 +1,3 @@
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-22 of 461
-login emails
-Inbox
-
-test
-Attachments
-Thu, Jul 10, 12:44 PM
-to me
-
-
-
---
-
-
- 7 Attachments
-  •  Scanned by Gmail
 <?php
 session_start();
 
@@ -61,5 +41,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 $conn->close();
 ?>
-action2page.php
-Displaying action2page.php.
+
